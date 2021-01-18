@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/com/Fensi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/com/HomeWorkC.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbase/ConnectionDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbase/HbaseUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbase/NamespaceHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbase/Tablehandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbase/myownword.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbasecurd/FilterDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbasecurd/FilterHomeWork.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbasecurd/GetDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbasecurd/HbaseUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbasecurd/TableCurd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hm/hbasecurd/homework.java" charset="GBK" />
+  </component>
+</project>
